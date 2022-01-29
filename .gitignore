@@ -2,3 +2,4 @@ __pycache__
 *.log
 *.out
 *.pdf
+data_to_ignore/
